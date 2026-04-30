@@ -85,7 +85,7 @@ export default function HomePage() {
         <div>
           <h2>Flash Deal of the Week</h2>
           <p>
-            Save up to 40% on selected gaming laptops, wireless earbuds and smart displays. Limited stock
+            Save up to 80% on selected gaming laptops, wireless earbuds and smart displays. Limited stock
             available.
           </p>
           <a href="#contact" className="btnPrimary">
@@ -111,7 +111,7 @@ export default function HomePage() {
 
       <footer id="contact" className="footer">
         <h2>myshop</h2>
-        <p>Email: support@myshop.com | Phone: +1 (800) 555-0199</p>
+        <p>Email: support@myshop.com | Phone: (123) 456-7890</p>
         <small>© {new Date().getFullYear()} myshop. All rights reserved.</small>
       </footer>
     </main>

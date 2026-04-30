@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "myshop | Electronics Store",
-  description: "Smart gadgets, home electronics and accessories at amazing prices."
+  description: "Discover premium electronics, smart gadgets, and exclusive offers with fast delivery."
 };
 
 export default function RootLayout({ children }) {
